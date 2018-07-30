@@ -7,3 +7,4 @@ class Name
   end 
   
   
+end 
