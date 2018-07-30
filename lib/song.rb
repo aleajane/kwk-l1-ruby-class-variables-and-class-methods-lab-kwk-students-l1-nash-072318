@@ -1,4 +1,9 @@
 
 class Name 
-  def intialize(item 1, item 2)
-    @
+  def intialize(name,artist,genre)
+    @name = name 
+    @artist = artist
+    @genre = genre 
+  end 
+  
+  
